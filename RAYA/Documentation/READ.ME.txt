@@ -1,0 +1,9 @@
+To start with the website here are a few steps to follow:
+
+Step 1: Copy the Raya.zip in C://xampp/htdocs and unzip file.
+
+Step 2: Import the database on your localhost/phpmyadmin
+
+Step 3: Make sure to start with index.php.
+
+Please Note: No other pages will work if not logged in. This is because each page is handled by Session.
